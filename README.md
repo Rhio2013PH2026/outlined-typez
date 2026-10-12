@@ -5,7 +5,7 @@
 Outlined Typez is an open-source font made in MakeYourOwnFont.com.
 
 # Issues
-It only 78.9% of the Basic Latin Unicode block.
+It only covers 78.9% of the Basic Latin Unicode block.
 
 # Usage
 You can download the font [here](https://github.com/Rhio2013PH2026/outlined-typez/blob/main/Outlined-Typez.ttf).
